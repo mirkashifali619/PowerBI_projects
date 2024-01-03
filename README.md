@@ -36,7 +36,6 @@ Open the Power BI Desktop application.
 Load the sales data into Power BI.
 Open the Sales Store Dashboard file.
 Customize the dashboard to suit your preferences.
+
 Contributors
-[Your Name]
-[Contributor 1]
-[Contributor 2]
+Mir Kashif Ali
